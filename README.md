@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logoColor=white)
+![JavaScript](https://camo.githubusercontent.com/9b22ad5bbacacd6daebb55f074aab70c451caf161711956a6bb1b70972268f04/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661736372697074)
 
 <!--
 **vitorseha/vitorseha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
