@@ -1,18 +1,13 @@
 ## Hi there 👋
 
-![JavaScript](https://camo.githubusercontent.com/9b22ad5bbacacd6daebb55f074aab70c451caf161711956a6bb1b70972268f04/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d6a617661736372697074)
+### 🚀 Technologies & Tools
 
-<!--
-**vitorseha/vitorseha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=javascript" />
+  <img src="https://skillicons.dev/icons?i=html" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=postgresql" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  <img src="https://skillicons.dev/icons?i=git" />
+  <img src="https://skillicons.dev/icons?i=docker" />
+</p>
