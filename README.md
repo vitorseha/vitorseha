@@ -15,9 +15,9 @@ and continuous improvement as I grow as a backend developer.
 - Learning backend architecture and best practices
 
 ## 🤓​ Fun Facts
-I play the *gayageum*, a traditional Korean string instrument.
-I initially studied Chemistry at the University of São Paulo. 
-I currently hold a degree in systems analysis and development.
+- I play the *gayageum*, a traditional Korean string instrument.
+- I initially studied Chemistry at the University of São Paulo. 
+- I currently hold a degree in systems analysis and development.
 
 ## 🛠️ Technologies & Tools
 
